@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## :pencil2: Studying
 
-## :four_leaf_clover: Skill :four_leaf_clover:
+## :four_leaf_clover: Skill
 
 ##
   
