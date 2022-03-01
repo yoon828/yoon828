@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <br/><br/>
   
  <!--알고리즘 -->
-  <h3>:muscle: Problem Solving </h3>
+ <a href="https://github.com/yoon828/Algorithm" > <h3>:muscle: Problem Solving </h3> </a>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoon828990)](https://solved.ac/yoon828990)<br/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
