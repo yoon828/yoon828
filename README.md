@@ -15,23 +15,26 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20YoonMin&fontSize=60&rotate=14&fontAlignY=28&fontAlign=75&descAlignY=43&descAlign=80)
 
-<div align=left>
+<div align=center>
 
-:raised_hands: Introduction
+<h3>:raised_hands: Introduction </h3>
 소개글 작성 예정입니다
 
-
-:eyes: Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoon828&count_bg=%236FCEE9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  
+  
+<h3>:eyes: Github</h3>
+  <div>   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon828&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-:muscle: Problem Solving with ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flate&logo=Java&logoColor=white)
-
+</div>
+  
+  
+<h3>:muscle: Problem Solving </h3>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoon828990)](https://solved.ac/yoon828990)
 
-:pencil2: Studying
-
-:four_leaf_clover: Skill
+  
+  
+ <h3>:pencil2: Studying </h3>
+ <h3>:four_leaf_clover: Skill </h3>
 
 ##
   
