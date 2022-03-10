@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   
  <!--공부중 -->
  <h3>:pencil2: Studying </h3>
- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
   <br/><br/>
