@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--소개-->
 <h3>:raised_hands: Introduction </h3>
 안녕하세요! 프론트 개발자로 일한 경험이 있으며, 현재는 공부중입니다. <br/>
-프론트와 백엔드 모두 관심있는 열정 가득한 신입개발자입니다 :purple_heart:
+프론트와 백엔드 모두 관심있는 열정 가득한 개발자입니다 :purple_heart:
 <br/><br/><br/>
  <!--기술스택-->
    <h3>:four_leaf_clover:Skill </h3>
