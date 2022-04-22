@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <div align=center>
 <!--소개-->
 <h3>:raised_hands: Introduction </h3>
-안녕하세요! 프론트 개발자로 일한 경험이 있으며, 현재는 공부중입니다. <br/>
-프론트와 백엔드 모두 관심있어서 풀스택을 지망하는 열정 가득한 개발자입니다 :relaxed:
+안녕하세요! 공부중인 개발자입니다. :relaxed:
 <br/><br/><br/>
  <!--기술스택-->
    <h3>:four_leaf_clover:Skill </h3>
