@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--소개-->
 <h3>:raised_hands: Introduction </h3>
  <hr/>
-Hi, I am trying to become a developer😎 :relaxed:
+Hi, I am trying to become a developer😎
 <br/><br/>
  <!--기술스택-->
    <h3>:four_leaf_clover:Skill </h3>
