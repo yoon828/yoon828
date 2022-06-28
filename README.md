@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 
 <div align=left>
 <!--소개-->
-<h3> Introduction :raised_hands:</h3>
- <hr/>
+
+## Introduction :raised_hands:
 Hi, I am trying to become a developer😎
 <br/><br/>
+ 
+ 
  <!--기술스택-->
-   <h3>Skill :four_leaf_clover:</h3>
-  <hr/>
+  ## Skill :four_leaf_clover:
 
   <!--프론트-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
@@ -41,8 +42,8 @@ Hi, I am trying to become a developer😎
 <br/><br/>
   
  <!--공부중 -->
- <h3> Studying :pencil2:</h3>
-  <hr/>
+ 
+  ## Studying :pencil2: 
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <!--백-->
   <br/>
@@ -54,8 +55,11 @@ Hi, I am trying to become a developer😎
  <br/>
   
  <!--알고리즘 -->
- <a href="https://github.com/yoon828/Algorithm" > <h3> Problem Solving :muscle:</h3> </a>
-      <hr/>
+ <a href="https://github.com/yoon828/Algorithm" > 
+ 
+ ## Problem Solving :muscle: 
+ </a>
+ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoon828990)](https://solved.ac/yoon828990)<br/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 
@@ -63,7 +67,6 @@ Hi, I am trying to become a developer😎
   
 <!--깃허브
 <h3>Github :eyes: </h3>
-    <hr/>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoon828&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon828&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
