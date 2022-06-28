@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align=center>
 <!--소개-->
 <h3>:raised_hands: Introduction </h3>
-Hi!, I am trying to become a developer😎 :relaxed:
+Hi, I am trying to become a developer😎 :relaxed:
 <br/><br/>
  <!--기술스택-->
    <h3>:four_leaf_clover:Skill </h3>
