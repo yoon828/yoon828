@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 <div align=left>
 <!--소개-->
-<h3>:raised_hands: Introduction </h3>
+<h3> Introduction :raised_hands:</h3>
  <hr/>
 Hi, I am trying to become a developer😎
 <br/><br/>
  <!--기술스택-->
-   <h3>:four_leaf_clover:Skill </h3>
+   <h3>Skill :four_leaf_clover:</h3>
   <hr/>
 
   <!--프론트-->
@@ -41,7 +41,7 @@ Hi, I am trying to become a developer😎
 <br/><br/>
   
  <!--공부중 -->
- <h3>:pencil2: Studying </h3>
+ <h3> Studying :pencil2:</h3>
   <hr/>
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <!--백-->
@@ -54,7 +54,7 @@ Hi, I am trying to become a developer😎
  <br/>
   
  <!--알고리즘 -->
- <a href="https://github.com/yoon828/Algorithm" > <h3>:muscle: Problem Solving </h3> </a>
+ <a href="https://github.com/yoon828/Algorithm" > <h3> Problem Solving :muscle:</h3> </a>
       <hr/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoon828990)](https://solved.ac/yoon828990)<br/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -62,7 +62,7 @@ Hi, I am trying to become a developer😎
 <br/><br/><br/>
   
 <!--깃허브
-<h3>:eyes: Github</h3>
+<h3>Github :eyes: </h3>
     <hr/>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoon828&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
